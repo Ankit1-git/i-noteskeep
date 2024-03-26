@@ -1,7 +1,7 @@
 NotesKeep - Your Notes on the GO!
 Developed a secure Node.js project with JSON Web Token (JWT) authentication for user registration login and session management. Integrated user authentication with appropriate hashing algorithms and encryption techniques to ensure data privacy and security. Implemented token-based authorization for accessing CRUD (Create Read Update Delete) operations on notes.
 
-Demo-https://www.loom.com/share/3ecfaa7f3974457aa4bb204bb603f543
+Demo-https://www.loom.com/share/637f1624e37f416f9d9ace5fafe0fd1a
 
 ![Screenshot 2024-03-26 063238](https://github.com/Ankit1-git/i-noteskeep/assets/143837323/b6022038-9a5e-4fff-aa81-582d5d5d051b)
 
